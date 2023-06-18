@@ -1,0 +1,32 @@
+[
+  {
+    "title": 1,
+    "name": "Dealer&Shop",
+    "number": 8,
+    "notifications": true
+  },
+  {
+    "id": 2,
+    "name": "Road Service",
+    "number": 8,
+    "notifications": false
+  },
+  {
+    "id": 3,
+    "name": "Yard",
+    "number": 8,
+    "notifications": false
+  },
+  {
+    "id": 4,
+    "name": "Recovery",
+    "number": 18,
+    "notifications": false
+  },
+  {
+    "id": 5,
+    "name": "Dealer&Shop",
+    "number": 3,
+    "notifications": false
+  }
+]
